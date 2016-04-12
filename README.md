@@ -1,6 +1,3 @@
-Tasks:
-===========================
-
 ## Ticket 1
 _Show your name, surname, bio, contacts on the main page._
 
