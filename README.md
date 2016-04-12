@@ -71,7 +71,7 @@ Also:
 - duplicate output to STDERR, prefixing each line with "error: "
 - write bash script which execute your command and save output of stderr into file. File name should be current date with extension .dat
 
- ---
+---
  
 Create signal processor that, for every model, creates the db entry about the object creation/editing/deletion
 
