@@ -55,7 +55,7 @@ Mockups:
 - http://framebox.org/wSk-YPMrdM
 - http://framebox.org/AMzD-BTbGcL
  
- ## Ticket 8
+## Ticket 8
  _Template tag, django command, signal processor_
 
 Create tag that accepts any object and renders the link to its admin edit page.
@@ -75,7 +75,7 @@ Also:
  
 Create signal processor that, for every model, creates the db entry about the object creation/editing/deletion
 
- ## Ticket 13
+## Ticket 13
 _Your customer sends the change request. Task: understand what he needs and implement._
 
 Customer's text:
